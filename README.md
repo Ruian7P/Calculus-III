@@ -14,7 +14,7 @@ Only for Personal Records and Reviews：Freshman 2023 Fall (first semester)
 
 Calculus III NYU Math, Lecturer: Shizhu Liu
 
->### [Directional Derivative, critical point, Lagrange Multiplier](Directional Derivative, critical point, Lagrange Multiplier.pdf)
+>### [[Directional Derivative, critical point, Lagrange Multiplier](Directional Derivative, critical point, Lagrange Multiplier.pdf)](https://github.com/Ruian7P/Calculus-III/blob/main/Directional%20Derivative%2C%20critical%20point%2C%20Lagrange%20Multiplier.pdf)https://github.com/Ruian7P/Calculus-III/blob/main/Directional%20Derivative%2C%20critical%20point%2C%20Lagrange%20Multiplier.pdf
 
 
 
